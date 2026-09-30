@@ -61,5 +61,5 @@
   <b>📫 Want to chat about a project, a hackathon, or just say hi? Reach out!</b><br><br>
   <a href="mailto:ayushpadaliya161@gmail.com">Email Me</a> • 
   <a href="https://ayushpadaliya-portfolio.vercel.app">My Portfolio</a> • 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ayush-padaliya-783877373">LinkedIn</a>
 </div>
